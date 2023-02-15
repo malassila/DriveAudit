@@ -13,6 +13,8 @@ import com.pcsp.diskauditfx.database.HardDriveDAO;
 import com.pcsp.diskauditfx.database.MessageDAO;
 import com.pcsp.diskauditfx.device.DriveModel;
 import com.pcsp.diskauditfx.device.ServerModel;
+import com.pcsp.diskauditfx.messages.MessageHandler;
+import com.pcsp.diskauditfx.utils.StringUtils;
 import javafx.application.Platform;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
