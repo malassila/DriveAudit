@@ -6,8 +6,10 @@ import java.util.Scanner;
 public class FileData {
     private File file;
     private final String fileName;
-//    private final String filePath = "/smart/";
-    private final String filePath = "C:\\Users\\Matt\\Documents\\GitHub\\DriveFX_App\\DriveAuditFX\\src\\main\\java\\com\\pcsp\\driveauditfx\\client\\files\\";
+//    private final String filePath = "/DRIVE/";
+//    private final String filePath = "C:\\Users\\Matt\\Documents\\GitHub\\DriveFX_App\\DriveAuditFX\\src\\main\\java\\com\\pcsp\\driveauditfx\\client\\files\\";
+    private final String filePath = "C:\\Users\\mlassila\\HardDrive\\DriveAudit\\DriveFX_App-development\\DriveAuditFX\\src\\main\\resources\\com\\pcsp\\driveauditfx\\files";
+    
     private BufferedReader bufferedReader;
     private Scanner scanner;
 
