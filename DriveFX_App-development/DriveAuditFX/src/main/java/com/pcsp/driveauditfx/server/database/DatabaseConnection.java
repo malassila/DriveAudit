@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DatabaseConnection {
-    private static final String URL = "jdbc:mysql://localhost:3306/drive_project?useSSL=false";
-    private static final String USERNAME = "spring";
-    private static final String PASSWORD = "hbstudent";
+    private static final String URL = "jdbc:mysql://192.168.1.235:3306/drive_project?useSSL=false&allowPublicKeyRetrieval=true";
+    private static final String USERNAME = "pcsp";
+    private static final String PASSWORD = "ghXryPCSP2022!";
 
     private static Connection connection;
 
