@@ -1,13 +1,13 @@
 package com.pcsp.diskauditfx.controller;
 
-import com.pcsp.driveauditfx.LaunchServer;
-import com.pcsp.driveauditfx.server.database.DriveServerDAO;
-import com.pcsp.driveauditfx.server.database.HardDriveDAO;
-import com.pcsp.driveauditfx.server.database.MessageDAO;
-import com.pcsp.driveauditfx.server.messages.MessageHandler;
-import com.pcsp.driveauditfx.shared.device.DriveModel;
-import com.pcsp.driveauditfx.shared.device.ServerModel;
-import com.pcsp.driveauditfx.shared.utils.StringUtils;
+//import com.pcsp.diskauditfx.LaunchServer;
+//import com.pcsp.diskauditfx.server.database.DriveServerDAO;
+//import com.pcsp.diskauditfx.server.database.HardDriveDAO;
+//import com.pcsp.diskauditfx.server.database.MessageDAO;
+//import com.pcsp.diskauditfx.server.messages.MessageHandler;
+//import com.pcsp.diskauditfx.shared.device.DriveModel;
+//import com.pcsp.diskauditfx.shared.device.ServerModel;
+//import com.pcsp.diskauditfx.shared.utils.StringUtils;
 import javafx.application.Platform;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -30,7 +30,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.pcsp.driveauditfx.shared.utils.StringUtils.getInt;
+//import static com.pcsp.diskauditfx.shared.utils.StringUtils.getInt;
 
 public class MainController {
     @FXML private TableColumn<ServerModel, Integer> colDrivesCompleted;
@@ -379,7 +379,7 @@ public class MainController {
 
         // Load the FXML file for the drive map UI
 //        FXMLLoader loader = new FXMLLoader(fxmlLocation);
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/com/pcsp/driveauditfx/drive_map.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/com/pcsp/diskauditfx/drive_map.fxml"));
 //        FXMLLoader loader = new FXMLLoader(getClass().getResource("drive_map.fxml"));
         Parent root = loader.load();
 
