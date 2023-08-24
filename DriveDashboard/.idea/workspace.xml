@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2641bb3-598c-4a75-8470-db5e96a18a0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pcsp/drivedashboard/DriveEventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pcsp/drivedashboard/DriveListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriveMessenger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriveMessenger/src/main/java/org/pcsp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriveMessenger/src/test/java/org/pcsp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureEraseDrive/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureEraseDrive/src/main/java/WipeDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiskAuditFX/src/main/java/com/pcsp/diskauditfx/controller/DriveMapController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DiskAuditFX/src/main/java/com/pcsp/diskauditfx/controller/DriveMapController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MQDviy3c1O8Ihtjdq8Db6FBtBT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcsp.drivedashboard.HelloApplication" />
+      <module name="DriveDashboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pcsp.drivedashboard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2641bb3-598c-4a75-8470-db5e96a18a0d" name="Changes" comment="" />
+      <created>1677691146836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677691146836</updated>
+    </task>
+    <servers />
+  </component>
+</project>
