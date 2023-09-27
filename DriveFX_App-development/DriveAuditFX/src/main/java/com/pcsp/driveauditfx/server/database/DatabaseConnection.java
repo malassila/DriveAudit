@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://192.168.1.235:3306/drive_project?useSSL=false&allowPublicKeyRetrieval=true";
     private static final String USERNAME = "pcsp";
-    private static final String PASSWORD = "ghXryPCSP2022!";
+    private static final String PASSWORD = "";
 
     private static Connection connection;
 
